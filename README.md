@@ -6,5 +6,4 @@ This repository highlights my hands-on projects in AI and Machine Learning, show
 
 - **Develop Natural Language Solutions.** → [`Computer Vision`](https://anasiezeikenna.notion.site/Developing-Computer-Vision-Solutions-in-Azure-24505c74585e81d2af8fe4d90ff7260f)  
 
-- **Develop Generative AI Solutions.** → [`Generative AI`](https://anasiezeikenna.notion.site/Developing-Generative-AI-Solutions-26005c74585e804b98e3ceebe191f827)  
-<img width="468" height="532" alt="image" src="https://github.com/user-attachments/assets/d89db9bf-8260-42ff-a726-520aa2493835" />
+- **Develop Generative AI Solutions.** → [`Generative AI`](https://anasiezeikenna.notion.site/Developing-Generative-AI-Solutions-26005c74585e804b98e3ceebe191f827)
