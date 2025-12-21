@@ -3,8 +3,11 @@
 This project demonstrates how I containerized and deployed an audio processing model built with Docker and deployed to a Vertex AI endpoint. The solution uses GPU acceleration for low-latency inference and is designed for scalable, real-time audio processing using custom containers fully compatible with Vertex AI.
 
 The model is an intelligent media processing service that takes in video or audio files from Google Cloud Storage (GCS), separates vocals from instrumentals using deep learning (UVR), and outputs:
+
 •	Clean vocal tracks
+
 •	Isolated instrumentals
+
 •	Video with no audio
 
 # **Tech Stack**
