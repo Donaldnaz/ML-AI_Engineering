@@ -28,7 +28,7 @@ The model is an intelligent media processing service that takes in video or audi
 ├── Architecture.png                      # Architecture Diagram
 ├── Guide.pdf                             # Step by Step Deployment Guide
 ├── Dockerfile                            # Containerized GPU Inference Image
-├── app.py                                # FastAPI Inference Service for Vertex AI
+├── main.py                               # FastAPI Inference Service for Vertex AI
 ├── README.md                             # Project Overview 
 
 ````
