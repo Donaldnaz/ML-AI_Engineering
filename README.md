@@ -8,11 +8,17 @@ The model is an intelligent media processing service that takes in video or audi
 •	Video with no audio
 
 ### Tech Stack
+
 •	Google Cloud Vertex AI (Custom Model Deployment)
+
 •	NVIDIA CUDA + Tesla T4 GPU
+
 •	Docker (Multi-stage build, CUDA support)
+
 •	FastAPI (Custom endpoints: /, /health, /read)
+
 •	PyTorch, Whisper, PyAnnote.audio
+
 •	Cloud Storage (GCS Buckets for model I/O)
 
 
