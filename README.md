@@ -1,4 +1,4 @@
-**Deployed Audio-Processing Model with GPU Acceleration on Vertex AI**
+# Deployed Audio-Processing Model with GPU Acceleration on Vertex AI
 
 This project demonstrates how I containerized and deployed an audio processing model built with Docker and deployed to a Vertex AI endpoint. The solution uses GPU acceleration for low-latency inference and is designed for scalable, real-time audio processing using custom containers fully compatible with Vertex AI.
 
