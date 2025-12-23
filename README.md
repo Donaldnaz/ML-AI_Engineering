@@ -68,7 +68,7 @@ graph TD
 
 ## 📁 Project Structure
 ```
-azure-nlp-solutions/
+nlp/
 ├── src/
 │   ├── text_analysis/
 │   │   └── text-analysis.py
