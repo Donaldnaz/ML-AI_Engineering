@@ -80,7 +80,8 @@ computer-vision/
 │       ├── train-detector.py
 │       └── test-detector.py
 ├── images/              # Training and test images
-├── .env.example         # Environment variables template
+├── Guide.pdf            # Step by Step Deployment Guide
+├── .env                 # Environment variables template
 ├── requirements.txt     # Python dependencies
 └── README.md            # This file
 ```
