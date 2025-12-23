@@ -42,3 +42,5 @@ This project taught me how to take an AI model from experimentation to productio
 
 ### Author
 ### Anasieze Ikenna - Cloud Engineer
+
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/ikenna-anasieze/) for collaboration opportunities*
