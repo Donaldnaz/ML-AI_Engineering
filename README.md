@@ -151,8 +151,7 @@ Source: policy_document.pdf
 - **Python Development**: Modular, production-ready code
 - **Problem Solving**: Real-world business solutions
 
-# Authored by
+##  Authored by
 ## Anasieze Ikenna - Cloud & AI Solutions Engineer
-**Built with ❤️ using Azure Cognitive Services** | **Python 3.10** | **Production-Ready Architecture**
 
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/anasiezeikenna) for collaboration opportunities*
