@@ -36,7 +36,7 @@ Built an AI-powered NLP system using Azure Cognitive Services that automates tex
 - **Global reach** with translation capabilities
 - **Actionable insights** from text analytics
 
-## 🏗️ Architecture
+## Architecture
 
 ```mermaid
 graph TD
