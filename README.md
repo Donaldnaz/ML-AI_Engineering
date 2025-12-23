@@ -1,7 +1,9 @@
-This repository highlights my hands-on projects in AI and Machine Learning, showcasing how I build intelligent systems that bridge Cloud and AI. Each project demonstrates real-world problem solving — from data ingestion and model training to deployment and inference — using Cloud Platforms.
+This repository highlights my hands on projects in AI and Machine Learning, showcasing how I build intelligent systems that bridge Cloud and AI. Each project demonstrates real world problem solving, from data ingestion and model training to deployment and inference, using modern cloud platforms.
 
-- **Develop Natural Language Solutions.** → [`NLP`](https://anasiezeikenna.notion.site/Develop-Natural-Language-Solutions-in-Azure-27105c74585e8055bbabde6e9d5894fd)
+- **Machine Learning and MLOps (GCP)**: Containerized and deployed production ML models to Google Cloud Vertex AI using custom Docker images, FastAPI inference services, and optimized GPU and CPU endpoints.
 
-- **Develop Natural Language Solutions.** → [`Computer Vision`](https://anasiezeikenna.notion.site/Developing-Computer-Vision-Solutions-in-Azure-24505c74585e81d2af8fe4d90ff7260f)  
+- **Natural Language Processing(NLP)**: Designed enterprise grade text and voice processing systems with Azure Cognitive Services, achieving up to 5x faster query handling through AI driven automation.
 
-- **Develop Generative AI Solutions.** → [`Generative AI`](https://anasiezeikenna.notion.site/Developing-Generative-AI-Solutions-26005c74585e804b98e3ceebe191f827)
+- **Computer Vision**: Developed image analysis solutions with Azure Vision APIs for face detection, OCR, and object recognition, deployed in production security and retail systems
+
+- **Generative AI**: Designed multimodal applications using Azure AI Foundry (Phi-4, DALL-E 3) for vision-enabled chat, image generation, and audio processing
