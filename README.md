@@ -113,3 +113,5 @@ python src/face_analysis/analyze-faces.py images/face1.jpg
 
 ## Authored By
 ## Anasieze Ikenna - Cloud & AI Solutions Engineer
+
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/ikenna-anasieze/) for collaboration opportunities*
