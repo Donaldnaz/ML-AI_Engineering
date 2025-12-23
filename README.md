@@ -35,11 +35,11 @@ Organizations need AI solutions that can:
 
 ## Architecture
 ```
-User Input → Application Layer → Azure AI Services → AI Processing → Business Output
-    │              │                    │                  │              │
-    Image       FastAPI/         AI Foundry/        Model Inference  Visual Response
-    Text        Python SDK       OpenAI APIs        (Phi-4/DALL-E)   Text Summary
-    Audio                                         Context Awareness  Generated Image
+User Input   →   Application Layer   →   Azure AI Services   →   AI Processing   →    Business Output
+    │                  │                      │                        │                     │
+  Image            FastAPI/              AI Foundry/             Model Inference       Visual Response
+  Text             Python SDK            OpenAI APIs             (Phi-4/DALL-E)         Text Summary
+  Audio                                                         Context Awareness      Generated Image
 ```
 
 ## Business Impact
