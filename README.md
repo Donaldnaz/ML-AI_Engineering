@@ -11,7 +11,7 @@ Working with raw image data locally often results in:
 - Risk of inconsistent results using offline tools
 - Slow workflows that delay insight extraction
 
-### roject Goal
+### Project Goal
 Create a lightweight, reproducible tool that users can use to:
 - Analyze images using pre-trained models
 - Perform OCR to read text from images
