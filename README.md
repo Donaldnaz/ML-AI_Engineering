@@ -16,10 +16,10 @@ Built an AI-powered NLP system using Azure Cognitive Services that automates tex
 ## Features
 
 ### Text Analysis Application
-Automated sentiment analysis, entity recognition, and key phrase extraction from text data.
+> Automated sentiment analysis, entity recognition, and key phrase extraction from text data.
 
 ### Question Answering System
-Built a conversational AI that answers FAQs automatically using Azure QnA Maker.
+> Built a conversational AI that answers FAQs automatically using Azure QnA Maker.
 
 
 ## Results
