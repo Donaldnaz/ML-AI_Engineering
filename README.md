@@ -154,4 +154,4 @@ Source: policy_document.pdf
 ##  Authored by
 ## Anasieze Ikenna - Cloud & AI Solutions Engineer
 
-*Connect with me on [LinkedIn](https://www.linkedin.com/in/anasiezeikenna) for collaboration opportunities*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/ikenna-anasieze/) for collaboration opportunities*
