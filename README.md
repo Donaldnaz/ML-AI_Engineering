@@ -34,49 +34,18 @@ Create a lightweight, reproducible tool that users can use to:
 ### **A) Face Detection, Analysis and Recognition**
 Built applications that detect human faces, analyze facial attributes, and recognize individuals using Azure's AI Vision Face API.
 
-**Applications:**
-- Identity verification systems (KYC)
-- Face unlock and personalized user experiences
-- Surveillance and access control in smart buildings
-- Retail customer sentiment analysis
-
-**Capabilities:**
-- Face detection with bounding boxes
-- Attribute analysis (age, emotion, pose)
-- Face verification & identification
-- Facial landmarks detection (eyes, nose, mouth)
-- Privacy-aware, Responsible AI ready
-
 ### **B) Image Classification with Custom Vision**
 Train custom models to classify images into specific categories with high accuracy using few images.
-
-**Applications:**
-- Retail: Automatically tagging products for inventory management
-- Agriculture: Identifying plant diseases or animal breeds
-- Construction: Classifying safety gear in site photos
-- Healthcare: Recognizing medical conditions (with regulatory guidance)
-
-**Capabilities:**
-- Custom classifier training
-- High accuracy with few images
-- Easy retraining & versioning
-- Export to edge or cloud
-- API + UI integration
 
 ### **C) Object Detection in Images**
 Develop models that detect and localize multiple objects within a single image.
 
-**Applications:**
-- Retail Loss Prevention: Spot concealed items at checkout
-- Smart Construction Monitoring: Detect missing safety gear
-- Warehouse Automation: Track inventory movement
-- Traffic Management: Identify license plates, vehicle counts
 
 ## Real-World Use Case: Smart Access Control System
 
 ### **Architecture:**
 
-<img width="427" height="240" alt="image" src="https://github.com/user-attachments/assets/febfc053-bcf9-4a41-8979-48eef58a398f" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/febfc053-bcf9-4a41-8979-48eef58a398f" />
 
 ### **What It Does:**
 1. Detects and identifies faces from camera feeds
@@ -97,12 +66,6 @@ Develop models that detect and localize multiple objects within a single image.
 - Wrote modular Python scripts using Azure SDKs, dotenv, and PIL
 - Produced visual and structured outputs (image overlays, logs, JSON)
 - Secured credentials and APIs via environment variable handling
-
-## Next Steps
-- Wrap modules into a deployable Streamlit or FastAPI demo
-- Host application using Azure App Service or Container Apps
-- Automate image processing with Azure Functions + Blob Triggers
-- Benchmark Azure Computer Vision vs. AWS Rekognition & Google Vision AI
 
 ## 📁 Project Structure
 ```
