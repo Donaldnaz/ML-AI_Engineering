@@ -1,0 +1,2 @@
+This project explores cost-efficient strategies for deploying machine learning models on Google Cloud. Instead of using always-on Vertex AI endpoints—which incur continuous costs—we propose storing models in Google Cloud Storage (GCS) and loading them on-demand via services like Cloud Run, GKE, or Vertex AI Custom Jobs. This approach significantly reduces costs for models with low or irregular usage while maintaining scalability and performance through smart caching.
+
